@@ -1,5 +1,5 @@
 (ns LearningClojure.test.core
-  (:use [LearningClojure.core])
+  (:use [LearningClojure.pig_latin])
   (:use [clojure.test]))
 
 (deftest replace-me ;; FIXME: write

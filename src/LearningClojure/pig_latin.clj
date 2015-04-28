@@ -1,4 +1,4 @@
-(ns LearningClojure.core)
+(ns LearningClojure.pig_latin)
 (require '[clojure.string :as string])
 
 ;Checks if the argument is in the set of variable characters
